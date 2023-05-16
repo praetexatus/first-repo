@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Warrior.h"
 
 int main()
 {
