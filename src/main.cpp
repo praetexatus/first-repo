@@ -2,7 +2,7 @@
 #include "Warrior.h"
 #include "Feature.h"
 
-int MainFunc()
+int main()
 {
 	std::cout << "Hello world!" << std::endl;
 	std::cin.get();
