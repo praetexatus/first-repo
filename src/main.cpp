@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Warrior.h"
+#include "Feature.h"
 
 int main()
 {
